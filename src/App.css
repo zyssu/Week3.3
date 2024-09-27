@@ -1,6 +1,12 @@
 .App {
-  text-align: center;
+  display: flex;
+    justify-content: space-between;
+    margin: 0 25%;
+    margin-top: 1%;
 }
+body {
+  background: #000000;
+ }
 
 .App-logo {
   height: 40vmin;
