@@ -58,8 +58,7 @@ const styles = {
         marginBottom: "10px", 
     },
     pfp: {
-        borderRadius: "100%",
-        height: "60px", 
+        borderRadius: "100%", 
         width: "60px",
     },
     textContainer: {
@@ -76,7 +75,6 @@ const styles = {
         fontSize: "18px",   
         fontWeight: "bold", 
         color: "#fff", 
-        fontFamily: "'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif", 
     },
     checkmark: {
         marginLeft: "5px",
@@ -84,22 +82,19 @@ const styles = {
         width: "21px",
     },
     Info: {
-        marginLeft: "10px",
+        marginLeft: "7px",
         color: "#888",  
         fontSize: "14px", 
-        fontFamily: "'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif", 
+        
     },
     description: {
         color: "#fff",
-        fontSize: "16px", 
         marginTop: "5px",
         lineHeight: "1.4",
-        fontFamily: "'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif",
     },
     mrbeast: {
         width: "80%",     
         borderRadius: "20px",
-        marginTop: "10px",
         marginLeft: "auto",
         marginRight: "auto",
         display: "block",
